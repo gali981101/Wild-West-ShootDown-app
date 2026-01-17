@@ -63,6 +63,7 @@ struct ProductDetailView: View {
         .zIndex(0)
         .ignoresSafeArea(.all, edges: .all)
         .background(Color(.white))
+        
     }
 }
 
